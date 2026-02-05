@@ -35,7 +35,7 @@
 
 ##
 
-
+##
 ##Conhecimentos Gerais na Área de Tecnologia
 
 <div>
@@ -44,6 +44,7 @@
 <h6>Conhecimento em Linux ( Básico )</h6>
 <h6>Hacker Ethical ( Básico )</h6>
 
+  ##
 
 ##Experiências
 
