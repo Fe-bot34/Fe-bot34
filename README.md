@@ -30,7 +30,7 @@
 
 <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"><br/>
-<img align="center" alt="flutter" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"><br/>
+<img align="center" alt="flutter" src="http://www.w3.org/2000/svg"><br/>
 
 ##
 
