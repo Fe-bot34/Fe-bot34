@@ -15,7 +15,7 @@
 
 ##
 
-##Tecnologias do meu dia a dia
+##Linguagens do meu dia a dia
 
 <div style="display: inline_block"><br/>
 
@@ -24,7 +24,7 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 ##
-##Tecnologias que estou aprendendo
+##Linguagens que ainda estou aprendendo
 
 <div style="display: inline_block"><br/>
 
@@ -35,12 +35,25 @@
 
 ##
 
+##Conhecimentos Gerais na Área de Tecnologia
+
+<div>
+<h3>Manutenção de Micro-computadores ( Senai-SP; Graduação )</h3>
+<h3>Conhecimento em Redes ( Intermediário )</h3>
+<h3>Conhecimento em Linux ( Básico )</h3>
+<h3>Hacker Ethical ( Básico )</h3>
+
 ##Experiências
 
 <div>
-<h3>Eniac Academy</h3>
-<h5>Descrição:</h5>
-<p>Realização de Projetos dados pela empresa Eniac e empresas externas parceiras da instituição</p>
+<h3>Descrição</h3>
+<h5>Eniac Academy:</h5>
+<p>Realização de Projetos dados pela empresa Eniac e empresas externas parceiras da instituição, aperfeiçoando conhecimentos básicos nas linguagens HTML, CSS e JavaScript</p>
+<h5>Projeto: Aplicativo para Escola de Música</h5>
+
+<h5>Better Móveis ( Atualmente ):</h5>
+<p>Realização de anúncios em marketplaces, ter uma visão de CEO para impulsionar as plataformas e elaboração de relatórios analisando os dados fornecidos.</p>
+
 
 <h3>Outros Contatos</h3>
 <p>O restante dos contatos pode ser feito via linkedin e email.</p>
