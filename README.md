@@ -35,7 +35,6 @@
 
 ##
 
-##
 ##Conhecimentos Gerais na Área de Tecnologia
 
 <div>
@@ -44,7 +43,7 @@
 <h6>Conhecimento em Linux ( Básico )</h6>
 <h6>Hacker Ethical ( Básico )</h6>
 
-  ##
+##
 
 ##Experiências
 
@@ -57,11 +56,7 @@
 <h5>Better Móveis ( Atualmente ):</h5>
 <p>Realização de anúncios em marketplaces, ter uma visão de CEO para impulsionar as plataformas e elaboração de relatórios analisando os dados fornecidos.</p>
 
-
-<h3>Outros Contatos</h3>
-<p>O restante dos contatos pode ser feito via linkedin e email.</p>
-</div>
-
+##
 
 ##Dados de contato
 
