@@ -35,6 +35,7 @@
 
 ##
 
+
 ##Conhecimentos Gerais na Área de Tecnologia
 
 <div>
@@ -42,6 +43,7 @@
 <h6>Conhecimento em Redes ( Intermediário )</h6>
 <h6>Conhecimento em Linux ( Básico )</h6>
 <h6>Hacker Ethical ( Básico )</h6>
+
 
 ##Experiências
 
@@ -58,6 +60,7 @@
 <h3>Outros Contatos</h3>
 <p>O restante dos contatos pode ser feito via linkedin e email.</p>
 </div>
+
 
 ##Dados de contato
 
