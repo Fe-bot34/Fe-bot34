@@ -30,8 +30,20 @@
 
 <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"><br/>
+<img align="center" alt="flutter" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"><br/>
 
 ##
+
+##Experiências
+
+<div>
+<h3>Eniac Academy</h3>
+<h5>Descrição:</h5>
+<p>Realização de Projetos dados pela empresa Eniac e empresas externas parceiras da instituição</p>
+
+<h3>Outros Contatos</h3>
+<p>O restante dos contatos pode ser feito via linkedin e email.</p>
+</div>
 
 ##Dados de contato
 
