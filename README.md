@@ -38,7 +38,7 @@
 ##Conhecimentos Gerais na Área de Tecnologia
 
 <div>
-<h6>Manutenção de Micro-computadores ( Senai-SP; Graduação )</h6>
+<h6>Manutenção de Micro-computadores ( Intermediário )</h6>
 <h6>Conhecimento em Redes ( Intermediário )</h6>
 <h6>Conhecimento em Linux ( Básico )</h6>
 <h6>Hacker Ethical ( Básico )</h6>
