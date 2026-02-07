@@ -51,7 +51,7 @@
 <h3>Descrição</h3>
 <h5>Eniac Academy:</h5>
 <p>Realização de Projetos dados pela empresa Eniac e empresas externas parceiras da instituição, aperfeiçoando conhecimentos básicos nas linguagens HTML, CSS e JavaScript</p>
-<h5>Projeto: Aplicativo para Escola de Música</h5>
+<h5>Projeto: Aplicativo para Escola MakerMusic</h5>
 
 
 ##
