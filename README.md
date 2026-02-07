@@ -45,7 +45,7 @@
 
 ##
 
-##Experiências
+##Experiências e Projetos
 
 <div>
 <h3>Descrição</h3>
@@ -53,8 +53,6 @@
 <p>Realização de Projetos dados pela empresa Eniac e empresas externas parceiras da instituição, aperfeiçoando conhecimentos básicos nas linguagens HTML, CSS e JavaScript</p>
 <h5>Projeto: Aplicativo para Escola de Música</h5>
 
-<h5>Better Móveis ( Atualmente ):</h5>
-<p>Realização de anúncios em marketplaces, ter uma visão de CEO para impulsionar as plataformas e elaboração de relatórios analisando os dados fornecidos.</p>
 
 ##
 
