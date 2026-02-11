@@ -31,17 +31,7 @@
 ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-
-
-<div style="display: inline_block"><br/>
-  
-<img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"><br/>
-<img align="center" alt="xml" src="https://img.shields.io/badge/XML-FF6600.svg?style=for-the-badge&logo=xml&logoColor=white"><br/>
-
-<div style="display: inline_block"><br/>
-  
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"><br/>
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 
 ##
