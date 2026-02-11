@@ -28,6 +28,10 @@
 ##Linguagens que ainda estou aprendendo
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+
 
 <div style="display: inline_block"><br/>
   
