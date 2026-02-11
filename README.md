@@ -1,5 +1,6 @@
 
 ### Olá ! Me chamo Felipe Martins 👋
+🎓 **Estudante de Engenharia de Software** | 💻 **Desenvolvedor Frontend** | 🌍 **Guarulhos - SP**
 
 <h2>Sobre mim</h2>
 <p>Sou estudante de Desenvolvimento Web com foco em Front-End, apaixonado por criar interfaces modernas, funcionais e voltadas à experiência do usuário. Tenho interesse por todas as áreas da tecnologia, incluindo e-commerce, segurança da informação e infraestrutura digital, buscando sempre aprender, experimentar e evoluir como profissional. Valorizo organização, trabalho em equipe e desenvolvimento contínuo. 🧑‍💻😎</p>
@@ -26,16 +27,15 @@
 ##
 ##Linguagens que ainda estou aprendendo
 
-<div style="display: inline_block"><br/>
-
-<img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"><br/>
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 <div style="display: inline_block"><br/>
+  
 <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"><br/>
 <img align="center" alt="xml" src="https://img.shields.io/badge/XML-FF6600.svg?style=for-the-badge&logo=xml&logoColor=white"><br/>
 
 <div style="display: inline_block"><br/>
+  
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"><br/>
 
 
