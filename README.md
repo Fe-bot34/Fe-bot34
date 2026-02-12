@@ -17,13 +17,16 @@
 ##
 
 ```XML
+
 <?xml version="1.0" encoding="UTF-8"?>
 <perfil>
     <mensagem>Olá, bem-vindo ao meu perfil!</mensagem>
 </perfil>
 ```
 
+
 ```Python
+
 perfil = {
     "mensagem": "Olá, bem-vindo ao meu perfil!"
 }
@@ -33,6 +36,7 @@ print(perfil["mensagem"])
 ```
 
 ```Flutter(Dart)
+
 class Perfil {
   final String mensagem;
 
@@ -46,7 +50,6 @@ void main() {
 
   print(perfil.mensagem);
 }
-
 ```
 
 ```Typescript
