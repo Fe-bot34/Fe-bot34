@@ -65,7 +65,7 @@ console.log(perfil.mensagem);
 ```
 
 
-##Linguagens do meu dia a dia
+💻Linguagens do meu dia a dia
 
 <div style="display: inline_block"><br/>
 
@@ -74,7 +74,8 @@ console.log(perfil.mensagem);
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 ##
-##Linguagens que ainda estou aprendendo
+
+👨‍💻Linguagens que ainda estou aprendendo
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
@@ -85,7 +86,7 @@ console.log(perfil.mensagem);
 
 ##
 
-##Conhecimentos Gerais na Área de Tecnologia
+📖 Conhecimentos Gerais na Área de Tecnologia
 
 <div>
 <h6>Manutenção de Micro-computadores ( Intermediário )</h6>
@@ -95,7 +96,7 @@ console.log(perfil.mensagem);
 
 ##
 
-##Experiências e Projetos
+💼 Experiências e Projetos
 
 <div>
 <h3>Descrição</h3>
@@ -106,7 +107,7 @@ console.log(perfil.mensagem);
 
 ##
 
-##Dados de contato
+📧 Dados de contato
 
 <div>
 <h3>Email</h3>
