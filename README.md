@@ -16,6 +16,52 @@
 
 ##
 
+```XML
+<?xml version="1.0" encoding="UTF-8"?>
+<perfil>
+    <mensagem>Olá, bem-vindo ao meu perfil!</mensagem>
+</perfil>
+```
+
+```Python
+perfil = {
+    "mensagem": "Olá, bem-vindo ao meu perfil!"
+}
+
+print(perfil["mensagem"])
+
+```
+
+```Flutter(Dart)
+class Perfil {
+  final String mensagem;
+
+  Perfil({required this.mensagem});
+}
+
+void main() {
+  final perfil = Perfil(
+    mensagem: "Olá, bem-vindo ao meu perfil!",
+  );
+
+  print(perfil.mensagem);
+}
+
+```
+
+```Typescript
+
+const perfil: {
+    mensagem: string;
+} = {
+    mensagem: "Olá, bem-vindo ao meu perfil!"
+};
+
+console.log(perfil.mensagem);
+
+```
+
+
 ##Linguagens do meu dia a dia
 
 <div style="display: inline_block"><br/>
